@@ -1,2 +1,3 @@
 # hello-world
 discovery and stuff like tests ...
+young man passioned by coding, trying to learn by himself 
